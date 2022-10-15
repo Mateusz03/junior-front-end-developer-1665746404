@@ -27,6 +27,8 @@
 }
 .username-and-date {
   display: flex;
+  align-items: center;
+  justify-content: center;
   gap: 8px;
 }
 .display-username {
@@ -46,6 +48,7 @@
   color: #6b778c;
   display: flex;
   align-items: center;
+  margin-top: 2px;
 }
 .display-content {
   margin-left: 64px;

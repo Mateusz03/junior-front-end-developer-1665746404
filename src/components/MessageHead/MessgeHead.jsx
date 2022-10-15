@@ -10,18 +10,18 @@ const Date = (props) => {
 };
 const Title = (props) => {
   return (
-    <div
+    <p
       className="message-title-text"
       style={{
         color: props.new ? "#0165FF" : "#6B778C",
       }}
     >
       {props.title}
-    </div>
+    </p>
   );
 };
 const Content = (props) => {
-  return <div className="message-content">{props.content}</div>;
+  return <span className="message-content">{props.content}</span>;
 };
 
 const MessageHead = (props) => {
