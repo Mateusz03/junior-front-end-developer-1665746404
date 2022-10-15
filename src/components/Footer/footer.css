@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  height: 5%;
+}
+.footer-content {
+  font-size: 14px;
+  gap: 8px;
+  color: #6b778c;
+}
+p {
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+.message-container {
+  width: 25%;
+  height: calc(90% - 28px);
+  background: #f4f5f7;
+  border-radius: 0px 0px 0px 10px;
+  margin-left: 4px;
+  margin-bottom: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}

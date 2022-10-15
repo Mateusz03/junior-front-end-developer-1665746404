@@ -1,0 +1,58 @@
+.display {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.display-title {
+  width: 100%;
+  height: 10%;
+  margin-left: 32px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+
+  color: #242325;
+}
+.user-content-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.username-and-date {
+  display: flex;
+  gap: 8px;
+}
+.display-username {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 25px;
+
+  color: #242325;
+}
+.display-date {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: right;
+  color: #6b778c;
+  display: flex;
+  align-items: center;
+}
+.display-content {
+  margin-left: 64px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: #6b778c;
+}
