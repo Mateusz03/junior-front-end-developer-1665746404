@@ -4,6 +4,7 @@ import { useContext, useState, createContext } from "react";
 import { useParams } from "react-router-dom";
 import "./messagecontainer.css";
 import Display from "../Display/Display";
+import { useEffect } from "react";
 
 export const DisplayContext = createContext();
 
@@ -13,6 +14,13 @@ const MessageContaier = () => {
   const message = useContext(messages);
   const [stateIndex, setIndex] = useState();
   const [displayMessage, setMessage] = useState();
+
+  useEffect(() => {
+    if (id !== lastId) {
+      setMessage(false);
+    }
+  }, [id, lastId]);
+
   return (
     <>
       <div className="message-container">

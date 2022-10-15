@@ -24,6 +24,7 @@ const Content = (props) => {
 
 const Display = () => {
   const { displayMessage } = useContext(DisplayContext);
+
   return (
     <div className="display">
       <Title text={displayMessage.title} />
