@@ -1,0 +1,5 @@
+.window {
+  height: 80%;
+  gap: 32px;
+  display: flex;
+}
