@@ -9,6 +9,7 @@ export const DisplayContext = createContext();
 
 const MessageContaier = () => {
   const { id } = useParams();
+  const [lastId, setId] = useState(id);
   const message = useContext(messages);
   const [stateIndex, setIndex] = useState();
   const [displayMessage, setMessage] = useState();
@@ -20,17 +21,20 @@ const MessageContaier = () => {
             return (
               <div
                 className="message"
-                key={index}
+                key={index + 1}
                 onClick={() => {
                   setIndex(index);
                   mess.new = false;
                   setMessage(mess);
+                  setId(id);
                 }}
                 style={{
                   backgroundColor:
-                    stateIndex === index ? "transparent" : "#ffffff",
+                    stateIndex === index && lastId === id
+                      ? "transparent"
+                      : "#ffffff",
                   boxShadow:
-                    stateIndex === index
+                    stateIndex === index && lastId === id
                       ? "none"
                       : "0px 1px 0px rgba(0, 0, 0, 0.1)",
                 }}
