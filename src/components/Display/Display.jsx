@@ -1,6 +1,7 @@
 import "./display.css";
 import { useContext } from "react";
 import { DisplayContext } from "../MessageContainer/MessageContainer";
+import { useEffect } from "react";
 
 const Title = (props) => {
   return <div className="display-title">{props.text}</div>;
@@ -24,6 +25,7 @@ const Content = (props) => {
 
 const Display = () => {
   const { displayMessage } = useContext(DisplayContext);
+
   return (
     <div className="display">
       <Title text={displayMessage.title} />
