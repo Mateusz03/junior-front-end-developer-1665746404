@@ -100,10 +100,20 @@ const Content = (props) => {
 };
 const Task = (props) => {
   return (
-    <li className="task">
-      <Icon icon={props.state} />
-      <Content content={props.content} state={props.state} />
-    </li>
+    <>
+      {props.state !== "blocked" && (
+        <li className="task task-open">
+          <Icon icon={props.state} />
+          <Content content={props.content} state={props.state} />
+        </li>
+      )}
+      {props.state === "blocked" && (
+        <li className="task task=blocked">
+          <Icon icon={props.state} />
+          <Content content={props.content} state={props.state} />
+        </li>
+      )}
+    </>
   );
 };
 

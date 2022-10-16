@@ -663,7 +663,499 @@ export const messages = createContext([
       },
     ],
   },
-]);
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+  {
+    task: { state: "blocked", content: "Aplication setup" },
+    context: [
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+      {
+        image: picture2,
+        new: true,
+        username: "Olga Nelson",
+        date: "Dec 17",
+        title: "Lorem ipsum dolor sit amet.",
+        content:
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum diam quis diam consequat, in placerat metus cursus. Quisque tincidunt ex consequat magna pharetra laoreet.",
+      },
+    ],
+  },
+]); //here its example array
 
 const Main = () => {
   return (
