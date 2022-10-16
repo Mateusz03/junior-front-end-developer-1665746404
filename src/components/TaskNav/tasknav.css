@@ -29,8 +29,25 @@ ol {
   margin: 4px;
 }
 .task {
+  width: 80%;
   display: flex;
+  padding-left: 32px;
+  align-items: center;
+  justify-content: flex-start;
   gap: 8px;
+}
+.task-open {
+  transition: 200ms;
+  padding: 5px;
+}
+.task-open:hover {
+  background-color: lightblue;
+  border-radius: 4px;
+}
+.task-open:active {
+  transition: 200ms;
+  background: lightblue;
+  background: radial-gradient(circle, rgb(136, 212, 238) 0%, lightblue 100%);
 }
 .icon {
   width: 16px;
@@ -57,7 +74,6 @@ ol {
 .active-content {
   font-style: normal;
   font-size: 16px;
-  line-height: 18px;
   color: #242325;
 }
 
@@ -65,8 +81,6 @@ ol {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 18px;
-
   color: #aeb5c1;
 }
 * {
