@@ -44,11 +44,7 @@ ol {
   background-color: lightblue;
   border-radius: 4px;
 }
-.task-open:active {
-  transition: 200ms;
-  background: lightblue;
-  background: radial-gradient(circle, rgb(136, 212, 238) 0%, lightblue 100%);
-}
+
 .icon {
   width: 16px;
   height: 16px;
